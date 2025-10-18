@@ -1,5 +1,4 @@
 
-import java.util.Scanner;
 
 public class Loops {
 
@@ -48,6 +47,34 @@ public class Loops {
                 }
             
             */ 
+
+
+            // int num =1 ;
+            // while (num <= 5){
+            //     num ++;
+            //     System.out.println(num);
+            // }
+
+            /***
+             * 
+             * do while loop 
+             * 
+             */
+
+
+             /*
+              
+                do {
+                
+                }while(condition);
+
+              */
+            //   int n = 1 ;
+            //   do { 
+            //     System.out.println(n);
+            //     n++;
+                  
+            //   } while (n< 5)
 
             
 
